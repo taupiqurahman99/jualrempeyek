@@ -74,7 +74,7 @@ header{
 .content .text h2
 {
     color: #fff;
-    font-size: 3.5em;
+    font-size: 5em;
     font-weight: 300;
 }
 
@@ -245,7 +245,7 @@ header{
 
     .content .text h2
     {
-        font-size: 3em;
+        font-size: 2.5em;
     }
 
     .slider
@@ -358,7 +358,7 @@ header{
     }
     .content .text h2
     {
-        font-size: 3em;
+        font-size: 2em;
     }
     .btn
     {
